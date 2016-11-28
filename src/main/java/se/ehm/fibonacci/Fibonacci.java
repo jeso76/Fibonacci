@@ -1,10 +1,12 @@
 package se.ehm.fibonacci;
 
 /**
- * Hello world!
+ * Fibonacci
+ *
+ *
  *
  */
-public class App 
+public class Fibonacci
 {
     public static void main( String[] args )
     {
